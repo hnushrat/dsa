@@ -1,3 +1,10 @@
+'''
+The problem statement says we want to find 
+the minimum number of operations needed to 
+transform any given 1D array into the target array.
+
+'''
+
 import numpy as np
 
 '''
